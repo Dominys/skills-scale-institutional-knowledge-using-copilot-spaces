@@ -31,3 +31,10 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+---
+
+## Related Resources
+- [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md) — See "Release to Retrospective Handoff" for post-release checklist
+- [OctoAcme Roles and Personas](octoacme-roles-and-personas.md) — Reference for role responsibilities during retrospectives
+- [OctoAcme RACI Matrix](octoacme-roles-and-personas-raci.md) — Clarify ownership for retrospective activities

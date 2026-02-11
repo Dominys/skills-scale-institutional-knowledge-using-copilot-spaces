@@ -38,3 +38,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+---
+
+## Related Resources
+- [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md) — See "Execution to Release Handoff" for release readiness checklist
+- [OctoAcme Roles and Personas](octoacme-roles-and-personas.md) — Reference for role responsibilities during execution
+- [OctoAcme RACI Matrix](octoacme-roles-and-personas-raci.md) — Clarify ownership for execution and tracking activities

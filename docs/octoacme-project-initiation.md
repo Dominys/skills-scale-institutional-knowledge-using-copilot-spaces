@@ -41,3 +41,10 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+---
+
+## Related Resources
+- [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md) — Use the "Discovery to Planning Handoff" section when moving from initiation into planning
+- [OctoAcme Roles and Personas](octoacme-roles-and-personas.md) — Reference for role responsibilities
+- [OctoAcme RACI Matrix](octoacme-roles-and-personas-raci.md) — Clarify ownership for initiation activities
