@@ -36,3 +36,10 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+---
+
+## Related Resources
+- [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md) — See "Execution to Release Handoff" for release readiness checklist
+- [OctoAcme Roles and Personas](octoacme-roles-and-personas.md) — Reference for role responsibilities during release
+- [OctoAcme RACI Matrix](octoacme-roles-and-personas-raci.md) — Clarify ownership for release activities
